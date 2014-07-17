@@ -1,4 +1,4 @@
-RomanOsteology
+Roman Osteology
 ==============
 
 This repository contains my database of published (and some unpublished) data resulting from my research on skeletal
@@ -21,27 +21,32 @@ additional context, please see the relevant publications.  If you don't have acc
 copy of anything published or under review:
 
 [Pathology Data] 
-Killgrove, K. In prep. Understanding Roman health: Progress and problems. Manuscript in preparation for Diet and Nutrition in the Roman World, C. Holleran and P. Erdkamp, eds. Ashgate Publishing (submission expected by April 2015).
 
-Killgrove, K. In prep. Imperialism and physiological stress in Rome and its environs (1st-3rd centuries AD). Manuscript in preparation for edited volume, Bioarchaeology of Contact, Colonialism, and Imperialism, H. Klaus and M. Murphy, eds. University Press of Florida (submission expected by August 2014).
+  Killgrove, K. In prep. Understanding Roman health: Progress and problems. Manuscript in preparation for Diet and Nutrition in the Roman World, C. Holleran and P. Erdkamp, eds. Ashgate Publishing (submission expected by April 2015).
+
+  Killgrove, K. In prep. Imperialism and physiological stress in Rome and its environs (1st-3rd centuries AD). Manuscript in preparation for edited volume, Bioarchaeology of Contact, Colonialism, and Imperialism, H. Klaus and M. Murphy, eds. University Press of Florida (submission expected by August 2014).
 
 [Sr and O Data]
-Killgrove, K. Submitted. Approaching human migration in Roman bioarchaeology using history, theory, and biochemical analyses: Case study of two cemeteries from Imperial-era Rome (1st-3rd c AD). Manuscript submitted to Journal of Anthropological Archaeology (June 2014).
 
-Killgrove, K. 2013. Biohistory of the Roman Republic: the potential of isotope analysis of human skeletal remains.  Post-Classical Archaeologies 3: 41-62.
+  Killgrove, K. Submitted. Approaching human migration in Roman bioarchaeology using history, theory, and biochemical analyses: Case study of two cemeteries from Imperial-era Rome (1st-3rd c AD). Manuscript submitted to Journal of Anthropological Archaeology (June 2014).
 
-Killgrove, K. 2010. Identifying immigrants to Imperial Rome using strontium isotope analysis. In Roman Diasporas: Archaeological Approaches to Mobility and Diversity in the Roman Empire, H. Eckardt, ed. Journal of Roman Archaeology supplement 78, Chapter 9, pp. 157-174.
+  Killgrove, K. 2013. Biohistory of the Roman Republic: the potential of isotope analysis of human skeletal remains.  Post-Classical Archaeologies 3: 41-62.
 
-Killgrove, K. 2010.	Migration and Mobility in Imperial Rome. Ph.D. Dissertation, Department of Anthropology, University of North Carolina.
+  Killgrove, K. 2010. Identifying immigrants to Imperial Rome using strontium isotope analysis. In Roman Diasporas: Archaeological Approaches to Mobility and Diversity in the Roman Empire, H. Eckardt, ed. Journal of Roman Archaeology supplement 78, Chapter 9, pp. 157-174.
+
+  Killgrove, K. 2010.	Migration and Mobility in Imperial Rome. Ph.D. Dissertation, Department of Anthropology, University of North Carolina.
 
 [C and N Data]
-Killgrove, K. and R.H. Tykot. 2013. Food for Rome: a stable isotope investigation of diet in the Imperial period (1st-3rd centuries AD). Journal of Anthropological Archaeology 32(1): 28-38. DOI: 10.1016/j.jaa.2012.08.002.
+
+  Killgrove, K. and R.H. Tykot. 2013. Food for Rome: a stable isotope investigation of diet in the Imperial period (1st-3rd centuries AD). Journal of Anthropological Archaeology 32(1): 28-38. DOI: 10.1016/j.jaa.2012.08.002.
 
 [Pb Data]
-Montgomery, J., J. Evans, S. Chenery, V. Pashley, K. Killgrove. “Gleaming, white and deadly”: lead exposure and geographic origins in the Roman period. In Roman Diasporas: Archaeological Approaches to Mobility and Diversity in the Roman Empire, H. Eckardt, ed. Journal of Roman Archaeology supplement 78, Chapter 11, pp. 199-226.
+
+  Montgomery, J., J. Evans, S. Chenery, V. Pashley, K. Killgrove. “Gleaming, white and deadly”: lead exposure and geographic origins in the Roman period. In Roman Diasporas: Archaeological Approaches to Mobility and Diversity in the Roman Empire, H. Eckardt, ed. Journal of Roman Archaeology supplement 78, Chapter 11, pp. 199-226.
 
 [Nonmetric Trait Data]
-Killgrove, K. Submitted. Using biological distance techniques to investigate the heterogeneous population of Imperial Rome. Manuscript submitted for edited volume, The Archaeology of Circulation, Exchange, and Human Migration, D. Peterson and J. Dudgeon, eds. (December 2012).
+
+  Killgrove, K. Submitted. Using biological distance techniques to investigate the heterogeneous population of Imperial Rome. Manuscript submitted for edited volume, The Archaeology of Circulation, Exchange, and Human Migration, D. Peterson and J. Dudgeon, eds. (December 2012).
 
 Questions should be directed to me at killgrove@uwf.edu.  You can also find more info, including other publications on
 Roman bioarchaeology, on my website (http://www.killgrove.org) or my blog (http://www.PoweredbyOsteons.org).
