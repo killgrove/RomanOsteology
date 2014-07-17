@@ -14,7 +14,8 @@ Casal Bertone and Castellaccio Europarco can be found here; data from Gabii will
 information on the archaeological context of the skeletons (e.g., provenience, grave goods, etc.) is included in this database, as that information is the purview of the Archaeological Superintendency of Rome. Download the database by clicking on the "Download" button (over there on the lower right toolbar) and open with Microsoft Access.
 
 The photographs folder currently includes shots of all individuals with scoreable porotic hyperostosis. Photographs are 
-also available for many of the individuals with enamel hypoplasia, but photographs were not taken of every individual or every tooth with this enamel insult.  More photographs will be posted soon.
+also available for many of the individuals with enamel hypoplasia, but photographs were not taken of every individual or every tooth with this enamel insult.  More photographs will be posted soon, largely related to various pathological
+conditions (osteoarthritis and fractures among them).
 
 I'm suggesting a CC BY-NC-SA license for these -- that is, feel free to use the data as you see fit for your academic publications; I just ask that you credit me appropriately. To find my own analyses and interpretations, or to get
 additional context, please see the relevant publications.  If you don't have access to them, I will gladly send you a
@@ -28,13 +29,13 @@ copy of anything published or under review:
 
 [Sr and O Data]
 
-  Killgrove, K. Submitted. Approaching human migration in Roman bioarchaeology using history, theory, and biochemical analyses: Case study of two cemeteries from Imperial-era Rome (1st-3rd c AD). Manuscript submitted to Journal of Anthropological Archaeology (June 2014).
+  Killgrove, K. Submitted (June 2014). Approaching human migration in Roman bioarchaeology using history, theory, and biochemical analyses: Case study of two cemeteries from Imperial-era Rome (1st-3rd c AD). Manuscript submitted to Journal of Anthropological Archaeology.
 
   Killgrove, K. 2013. Biohistory of the Roman Republic: the potential of isotope analysis of human skeletal remains.  Post-Classical Archaeologies 3: 41-62.
 
   Killgrove, K. 2010. Identifying immigrants to Imperial Rome using strontium isotope analysis. In Roman Diasporas: Archaeological Approaches to Mobility and Diversity in the Roman Empire, H. Eckardt, ed. Journal of Roman Archaeology supplement 78, Chapter 9, pp. 157-174.
 
-  Killgrove, K. 2010.	Migration and Mobility in Imperial Rome. Ph.D. Dissertation, Department of Anthropology, University of North Carolina.
+  Killgrove, K. 2010.	Migration and Mobility in Imperial Rome. Ph.D. Dissertation, Department of Anthropology, University of North Carolina. [Also includes relevant bibliography on the archaeological context of the cemeteries.]
 
 [C and N Data]
 
@@ -46,7 +47,7 @@ copy of anything published or under review:
 
 [Nonmetric Trait Data]
 
-  Killgrove, K. Submitted. Using biological distance techniques to investigate the heterogeneous population of Imperial Rome. Manuscript submitted for edited volume, The Archaeology of Circulation, Exchange, and Human Migration, D. Peterson and J. Dudgeon, eds. (December 2012).
+  Killgrove, K. Submitted (December 2012). Using biological distance techniques to investigate the heterogeneous population of Imperial Rome. Manuscript submitted for edited volume, The Archaeology of Circulation, Exchange, and Human Migration, D. Peterson and J. Dudgeon, eds.
 
 Questions should be directed to me at killgrove@uwf.edu.  You can also find more info, including other publications on
 Roman bioarchaeology, on my website (http://www.killgrove.org) or my blog (http://www.PoweredbyOsteons.org).
