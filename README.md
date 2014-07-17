@@ -19,7 +19,7 @@ conditions (osteoarthritis and fractures among them).
 
 I'm suggesting a CC BY-NC-SA license for these -- that is, feel free to use the data as you see fit for your academic publications; I just ask that you credit me appropriately. To find my own analyses and interpretations, or to get
 additional context, please see the relevant publications.  If you don't have access to them, I will gladly send you a
-copy of anything published or under review:
+copy of anything published or under review.  I'm also more than happy to collaborate on projects involving these data.
 
 [Pathology Data] 
 
