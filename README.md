@@ -23,9 +23,7 @@ copy of anything published or under review.  I'm also more than happy to collabo
 
 [Pathology Data] 
 
-  Killgrove, K. In prep. Understanding Roman health: Progress and problems. Manuscript in preparation for Diet and Nutrition in the Roman World, C. Holleran and P. Erdkamp, eds. Ashgate Publishing (submission expected by April 2015).
-
-  Killgrove, K. In prep. Imperialism and physiological stress in Rome and its environs (1st-3rd centuries AD). Manuscript in preparation for edited volume, Bioarchaeology of Contact, Colonialism, and Imperialism, H. Klaus and M. Murphy, eds. University Press of Florida (submission expected by August 2014).
+   Killgrove, K. Submitted (July 2014). Imperialism and physiological stress in Rome (1st-3rd centuries AD). Manuscript submitted for edited volume, Bioarchaeology of Contact, Colonialism, and Imperialism, H. Klaus and M. Murphy, eds. University Press of Florida.
 
 [Sr and O Data]
 
