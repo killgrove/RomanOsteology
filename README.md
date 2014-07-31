@@ -2,8 +2,7 @@ Roman Osteology
 ==============
 
 This repository contains my database of published (and some unpublished) data resulting from my research on skeletal
-remains from Rome, Italy.  There are also photographs relevant to various publications, each labeled by skeleton
-number (which is the ID key in the Access database).
+remains from two cemeteries in Rome, Italy (Casal Bertone and Castellaccio Europarco).  There are also photographs relevant to various publications, each labeled by skeleton number (which is the ID key in the Access database).
 
 In the database, you will find basic demographic information (age and sex), an inventory of each skeleton, skeletal
 pathology data, records of teeth examined and their pathological conditions, and results of all biochemical analyses
