@@ -4,11 +4,8 @@ Roman Osteology
 This repository contains my database of published (and some unpublished) data resulting from my research on skeletal
 remains from two cemeteries in Rome, Italy (Casal Bertone and Castellaccio Europarco).  There are also photographs relevant to various publications, each labeled by skeleton number (which is the ID key in the Access database).
 
-In the database, you will find basic demographic information (age and sex), an inventory of each skeleton, skeletal
-pathology data, records of teeth examined and their pathological conditions, and results of all biochemical analyses
-undertaken to date (C, N, O, Sr, Pb isotopes; Pb and Sr concentration).  Note that adult measurements, subadult 
-measurements, subadult dental data, and nonmetric cranial trait data will be available in the next year, once the
-relevant publications come out (I'm afraid I have to embargo these raw data for the moment).  Data from my work at
+In the database, you will find basic demographic information (age and sex), an inventory of each skeleton, measurements, skeletal pathology data, records of teeth examined and their pathological conditions, and results of all biochemical analyses
+undertaken to date (C, N, O, Sr, Pb isotopes; Pb and Sr concentration).  Data from my work at
 Casal Bertone and Castellaccio Europarco can be found here; data from Gabii will be posted when possible. No 
 information on the archaeological context of the skeletons (e.g., provenience, grave goods, etc.) is included in this database, as that information is the purview of the Archaeological Superintendency of Rome. Download the database by clicking on the "Download" button (over there on the lower right toolbar) and open with Microsoft Access.
 
@@ -22,11 +19,15 @@ copy of anything published or under review.  I'm also more than happy to collabo
 
 [Pathology Data] 
 
-   Killgrove, K. Submitted (July 2014). Imperialism and physiological stress in Rome (1st-3rd centuries AD). Manuscript submitted for edited volume, Bioarchaeology of Contact, Colonialism, and Imperialism, H. Klaus and M. Murphy, eds. University Press of Florida.
+   Killgrove, K. In press. Imperialism and physiological stress in Rome (1st-3rd centuries AD). In: Bioarchaeology of Contact, Colonialism, and Imperialism, H. Klaus and M. Murphy, eds. University Press of Florida.
+
+[Stature Data]
+
+   Killgrove, K. In prep (June 2015). Using skeletal remains as a proxy for Roman health: the potential and problems with palaeopathology, biochemistry, and postcranial morphology. Manuscript in preparation for Diet and Nutrition in the Roma World, C. Holleran and P. Erdkamp. Ashgate. 
 
 [Sr and O Data]
 
-  Killgrove, K. Submitted (June 2014). Approaching human migration in Roman bioarchaeology using history, theory, and biochemical analyses: Case study of two cemeteries from Imperial-era Rome (1st-3rd c AD). Manuscript submitted to Journal of Anthropological Archaeology.
+  Killgrove, K. In prep (June 2015). Approaching human migration in Roman bioarchaeology using history, theory, and biochemical analyses: Case study of two cemeteries from Imperial-era Rome (1st-3rd c AD). Manuscript in prep for PLOS ONE.
 
   Killgrove, K. 2013. Biohistory of the Roman Republic: the potential of isotope analysis of human skeletal remains.  Post-Classical Archaeologies 3: 41-62.
 
