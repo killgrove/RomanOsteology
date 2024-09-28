@@ -50,5 +50,5 @@ copy of anything published or under review.  I'm also more than happy to collabo
 
   Killgrove, K. Submitted (December 2012). Using biological distance techniques to investigate the heterogeneous population of Imperial Rome. Manuscript submitted for edited volume, The Archaeology of Circulation, Exchange, and Human Migration, D. Peterson and J. Dudgeon, eds.
 
-Questions should be directed to me at killgrove@unc.edu.  You can also find more info, including other publications on
-Roman bioarchaeology, on my website (http://www.killgrove.org) or my blog (http://www.PoweredbyOsteons.org).
+Questions should be directed to me at killgrove@gmail.com.  You can also find more info, including other publications on
+Roman bioarchaeology, on my website (http://www.killgrove.org).
